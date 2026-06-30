@@ -1,12 +1,12 @@
-Olá! Eu sou Laura Ramos de Oliveira
+# Olá! Eu sou Laura Ramos de Oliveira
 
-Sobre mim:
+## Sobre mim:
 
 Sou estudante do curso Técnico em Informática para Internet da ETEC de Cubatão. Tenho interesse em desenvolvimento web, tecnologia e computação em nuvem. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades para crescer na área de tecnologia.
 
 ---
 
-Objetivos:
+## Objetivos:
 
 - Aprender novas tecnologias.
 - Desenvolver projetos práticos.
@@ -15,7 +15,7 @@ Objetivos:
 
 ---
 
-Habilidades:
+## Habilidades:
 
 | Tecnologia | Nível |
 |------------|--------|
@@ -28,7 +28,7 @@ Habilidades:
 
 ---
 
-Contato:
+## Contato:
 
 - Email: lauraoliramos11@gmail.com
 - GitHub: https://github.com/seuusuario
