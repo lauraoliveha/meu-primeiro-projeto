@@ -28,7 +28,7 @@ Sou estudante do curso Técnico em Informática para Internet da ETEC de Cubatã
 
 ---
 
-## ✅ Lista de Tarefas
+## Lista de Tarefas
 
 - [x] Criar uma conta no GitHub
 - [x] Personalizar meu perfil
