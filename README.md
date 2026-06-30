@@ -44,4 +44,5 @@ Sou estudante do curso Técnico em Informática para Internet da ETEC de Cubatã
 ## Contato:
 
 - Email: lauraoliramos11@gmail.com
-- GitHub: https://github.com/seuusuario
+- GitHub: https://github.com/lauraoliveha
+
