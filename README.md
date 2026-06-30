@@ -1,4 +1,6 @@
-# Olá! Eu sou Laura Ramos de Oliveira
+# Olá, Eu sou Laura Ramos de Oliveira!
+
+![Minha foto](https://cdn.discordapp.com/attachments/1481263905706610799/1521340152189030631/image.jpg?ex=6a4479ed&is=6a43286d&hm=269fb3d9920801505a9a0ccc5b6c6d7e3f9876008f3e2cb69542af3ff27ca727&)
 
 ## Sobre mim:
 
