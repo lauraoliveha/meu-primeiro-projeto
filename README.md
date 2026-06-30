@@ -1,4 +1,4 @@
-# meu-primeiro-projeto
+# lauraoliveha
 ## Hello world!!
 Essa é a minha **primeira** vez utilizando o **GitHub**.
 >"O trabalho duro é inútil para aqueles que não acreditam em si mesmos." - Naruto Uzumaki
