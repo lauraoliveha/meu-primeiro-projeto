@@ -1,8 +1,10 @@
 # Olá, Eu sou Laura Ramos de Oliveira!
 
+![Foto de Laura](Laura Ramos.jpg)
+
 ## Sobre mim:
 
-Sou estudante do curso Técnico em Informática para Internet da ETEC de Cubatão. Tenho interesse em desenvolvimento web, tecnologia e computação em nuvem. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades para crescer na área de tecnologia.
+Sou estudante do curso Técnico em Informática da ETEC de Cubatão. Tenho interesse em desenvolvimento web, tecnologia e computação em nuvem. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades para crescer na área de tecnologia.
 
 ---
 
