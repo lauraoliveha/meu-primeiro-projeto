@@ -1,6 +1,6 @@
 # Olá, Eu sou Laura Ramos de Oliveira!
 
-![Foto de Laura](Laura Ramos.jpg)
+![Foto de Laura](perfil.jpg)
 
 ## Sobre mim:
 
