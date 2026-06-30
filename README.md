@@ -19,12 +19,12 @@ Sou estudante do curso Técnico em Informática para Internet da ETEC de Cubatã
 
 | Tecnologia | Nível |
 |------------|--------|
-| HTML | Básico |
-| CSS | Básico |
-| Banco de Dados | Básico |
-| Git | Básico |
-| GitHub | Básico |
-| Canva | Intermediário |
+| **HTML** | Básico |
+| **CSS** | Básico |
+| **Banco de Dados** | Básico |
+| **Git** | Básico |
+| **GitHub** | Básico |
+| **Canva** | Intermediário |
 
 ---
 
