@@ -1,7 +1,5 @@
 # Olá, Eu sou Laura Ramos de Oliveira!
 
-![Minha foto](https://cdn.discordapp.com/attachments/1481263905706610799/1521340152189030631/image.jpg?ex=6a4479ed&is=6a43286d&hm=269fb3d9920801505a9a0ccc5b6c6d7e3f9876008f3e2cb69542af3ff27ca727&)
-
 ## Sobre mim:
 
 Sou estudante do curso Técnico em Informática para Internet da ETEC de Cubatão. Tenho interesse em desenvolvimento web, tecnologia e computação em nuvem. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades para crescer na área de tecnologia.
@@ -27,6 +25,19 @@ Sou estudante do curso Técnico em Informática para Internet da ETEC de Cubatã
 | **Git** | Básico |
 | **GitHub** | Básico |
 | **Canva** | Intermediário |
+
+---
+
+## ✅ Lista de Tarefas
+
+- [x] Criar uma conta no GitHub
+- [x] Personalizar meu perfil
+- [x] Aprender a usar Markdown
+- [x] Fazer os primeiros commits
+- [ ] Aprender mais comandos do Git
+- [ ] Publicar meus projetos da ETEC
+- [ ] Melhorar meus conhecimentos em HTML, CSS e JavaScript
+- [ ] Criar um portfólio com meus trabalhos
 
 ---
 
